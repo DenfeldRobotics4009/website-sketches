@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+}
+
+#header {
+  text-align: center;
+  vertical-align: top;
+}
+#logo {
+  margin-top: 1.5em;
+}
+
+div {
+  background-color: #009cd7;
+}
+p.centred {
+    text-align: center;
+}
+
+span.header {
+  margin-left: .5em;
+  margin-right: .5em;
+}
