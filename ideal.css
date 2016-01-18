@@ -1,16 +1,19 @@
 body {
-  font-family: sans-serif;
+  font-family: Basic, sans-serif;
 }
 
-#header {
+div.header {
+  font-family: Actor, sans-serif;
+  font-weight: bold
   text-align: center;
   vertical-align: top;
+  background-color: #B7B7B7
 }
 #logo {
   margin-top: 1.5em;
 }
 
-div {
+div.frc {
   background-color: #009cd7;
 }
 p.centred {
